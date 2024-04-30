@@ -1,0 +1,669 @@
+2024-04-30 11:01:07,049 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:07,147 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:07,267 - logger_File -INFO - user clicked on Create New Account button
+2024-04-30 11:01:07,575 - logger_File -INFO - user entered required information into sign up form
+2024-04-30 11:01:07,632 - logger_File -INFO - user clicked on SignUp button
+2024-04-30 11:01:08,040 - logger_File -INFO - user is logged into account page
+2024-04-30 11:01:11,436 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:11,548 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:11,764 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:11,835 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:12,198 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:15,482 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:15,570 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:15,770 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:15,822 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:16,228 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:16,320 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:01:16,501 - logger_File -INFO - user updated name to Danny and phone to 9163265599
+2024-04-30 11:01:16,562 - logger_File -INFO - user clicked on update button
+2024-04-30 11:01:17,379 - logger_File -INFO - user profile information updated
+2024-04-30 11:01:20,559 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:20,641 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:20,827 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:20,887 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:21,296 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:21,382 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:01:21,444 - logger_File -INFO - user clicked on Add a payment method link
+2024-04-30 11:01:21,774 - logger_File -INFO - user filled card information
+2024-04-30 11:01:21,826 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:01:22,706 - logger_File -INFO - Payment Method added sucessfullyis displayed
+2024-04-30 11:01:25,977 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:26,067 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:26,257 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:26,308 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:26,709 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:26,806 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:01:27,096 - logger_File -INFO - user clicked on Edit option
+2024-04-30 11:01:27,518 - logger_File -INFO - user edited information with new card data
+2024-04-30 11:01:27,573 - logger_File -INFO - user clicked on update your card button
+2024-04-30 11:01:28,376 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2024-04-30 11:01:31,733 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:31,815 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:32,001 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:32,050 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:32,440 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:32,535 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:01:32,795 - logger_File -INFO - user clicked on remove option
+2024-04-30 11:01:56,872 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:01:56,982 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:01:57,210 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:01:57,273 - logger_File -INFO - user clicked on login button
+2024-04-30 11:01:57,681 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:01:57,847 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:01:57,933 - logger_File -INFO - user clicked on Add address option
+2024-04-30 11:01:58,563 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:01:58,647 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:01:59,404 - logger_File -INFO - Address Added Successfullyis displayed
+2024-04-30 11:02:02,722 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:02,829 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:02:03,026 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:02:03,080 - logger_File -INFO - user clicked on login button
+2024-04-30 11:02:03,486 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:02:03,647 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:02:03,905 - logger_File -INFO - user clicked on Edit button
+2024-04-30 11:02:04,819 - logger_File -INFO - user filled new address form with new data
+2024-04-30 11:02:04,912 - logger_File -INFO - user clicked Update Your Address button
+2024-04-30 11:02:05,680 - logger_File -INFO - Address Updated Successfullyis displayed
+2024-04-30 11:02:09,078 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:09,176 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:02:09,374 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:02:09,423 - logger_File -INFO - user clicked on login button
+2024-04-30 11:02:09,853 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:02:09,999 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:02:10,415 - logger_File -INFO - user clicked on remove option of address section
+2024-04-30 11:02:31,013 - logger_File -INFO - address details are removed
+2024-04-30 11:02:34,543 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:34,640 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:02:34,859 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:02:34,915 - logger_File -INFO - user clicked on login button
+2024-04-30 11:02:35,293 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:02:35,415 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:02:35,644 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:02:35,700 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:02:36,857 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:02:40,254 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:40,354 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:02:40,563 - logger_File -INFO - email alldone2@gmail.com and password AllDonePass2! are entered
+2024-04-30 11:02:40,621 - logger_File -INFO - user clicked on login button
+2024-04-30 11:02:40,960 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:02:41,085 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:02:41,324 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:02:41,389 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:02:42,479 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:02:45,805 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:45,897 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:02:46,353 - logger_File -INFO - optionsElectronics, Computers, Smart Home, Sports, Automative are present
+2024-04-30 11:02:49,481 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:49,546 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:02:49,930 - logger_File -INFO - user clicked on department Electronics option
+2024-04-30 11:02:49,958 - logger_File -INFO - options are present in department
+2024-04-30 11:02:53,204 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:53,282 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:02:53,663 - logger_File -INFO - user clicked on department Computers option
+2024-04-30 11:02:53,694 - logger_File -INFO - options are present in department
+2024-04-30 11:02:56,966 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:02:57,043 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:02:57,415 - logger_File -INFO - user clicked on department Smart Home option
+2024-04-30 11:02:57,448 - logger_File -INFO - options are present in department
+2024-04-30 11:03:00,912 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:00,973 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:03:01,332 - logger_File -INFO - user clicked on department Sports option
+2024-04-30 11:03:01,362 - logger_File -INFO - options are present in department
+2024-04-30 11:03:04,703 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:04,770 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:03:05,147 - logger_File -INFO - user clicked on department Automative option
+2024-04-30 11:03:05,175 - logger_File -INFO - options are present in department
+2024-04-30 11:03:08,357 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:08,425 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:08,599 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:08,650 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:09,114 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:09,184 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:03:09,260 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:03:09,306 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:03:09,575 - logger_File -INFO - user clicked on item
+2024-04-30 11:03:09,829 - logger_File -INFO - user selected quantity2
+2024-04-30 11:03:09,874 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:03:10,170 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:03:13,355 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:13,447 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:13,642 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:13,688 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:14,394 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:14,447 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:03:14,781 - logger_File -INFO - user clicked delete item option
+2024-04-30 11:03:14,811 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:03:18,052 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:18,123 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:18,296 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:18,342 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:18,736 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:18,803 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:03:18,883 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:03:18,929 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:03:19,240 - logger_File -INFO - user clicked on item
+2024-04-30 11:03:19,497 - logger_File -INFO - user selected quantity2
+2024-04-30 11:03:19,544 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:03:19,559 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:03:19,611 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:03:19,686 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:03:19,762 - logger_File -INFO - user clicked add a new address link for shipping address
+2024-04-30 11:03:20,230 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:03:20,290 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:03:20,330 - logger_File -INFO - user clicked add a credit card or debit card for payment method
+2024-04-30 11:03:20,625 - logger_File -INFO - user filled card information
+2024-04-30 11:03:20,680 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:03:21,246 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:03:21,705 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:03:25,010 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:25,083 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:25,273 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:25,334 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:25,753 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:25,820 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:03:25,888 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:03:25,941 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:03:26,326 - logger_File -INFO - user clicked on item
+2024-04-30 11:03:26,598 - logger_File -INFO - user selected quantity5
+2024-04-30 11:03:26,650 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:03:26,924 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:03:26,978 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:03:27,050 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:03:27,098 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:03:27,602 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:03:30,941 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:31,014 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:31,209 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:31,264 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:31,664 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:31,733 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:03:31,800 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:03:31,847 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:03:32,170 - logger_File -INFO - user clicked on item
+2024-04-30 11:03:32,475 - logger_File -INFO - user selected quantity5
+2024-04-30 11:03:32,522 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:03:32,802 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:03:32,855 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:03:32,925 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:03:32,974 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:03:33,492 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:03:36,747 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:36,826 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:37,006 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:37,053 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:37,526 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:37,575 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:03:37,932 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:03:37,986 - logger_File -INFO - user clicked on cancel the oreder button
+2024-04-30 11:03:38,103 - logger_File -INFO - user clicked on cancel order button
+2024-04-30 11:03:38,393 - logger_File -INFO - A cancelation message is displayedYour Order Has Been Cancelled
+2024-04-30 11:03:41,502 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:41,574 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:41,753 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:41,801 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:42,187 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:42,243 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:03:42,672 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:03:42,735 - logger_File -INFO - user clicked on return items button
+2024-04-30 11:03:42,801 - logger_File -INFO - user selected the return reasonItem damaged
+2024-04-30 11:03:42,864 - logger_File -INFO - user selected the drop off serviceFedEx
+2024-04-30 11:03:42,913 - logger_File -INFO - user clicked on return order button
+2024-04-30 11:03:43,209 - logger_File -INFO - A return message Return was successfull is displayed
+2024-04-30 11:03:46,319 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:03:46,393 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:03:46,575 - logger_File -INFO - email alldone2@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:03:46,623 - logger_File -INFO - user clicked on login button
+2024-04-30 11:03:47,012 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:03:47,061 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:03:47,547 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:03:47,598 - logger_File -INFO - user clicked on review button
+2024-04-30 11:03:47,737 - logger_File -INFO - user wrote review headlineheadline value and review text review text
+2024-04-30 11:03:47,792 - logger_File -INFO - user clicked add your review button
+2024-04-30 11:03:48,547 - logger_File -INFO - Your review was added successfullyis displayed
+2024-04-30 11:08:24,676 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:24,784 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:24,877 - logger_File -INFO - user clicked on Create New Account button
+2024-04-30 11:08:25,168 - logger_File -INFO - user entered required information into sign up form
+2024-04-30 11:08:25,221 - logger_File -INFO - user clicked on SignUp button
+2024-04-30 11:08:25,660 - logger_File -INFO - user is logged into account page
+2024-04-30 11:08:29,276 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:29,365 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:29,563 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:08:29,617 - logger_File -INFO - user clicked on login button
+2024-04-30 11:08:30,009 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:08:33,549 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:33,647 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:33,836 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:08:33,894 - logger_File -INFO - user clicked on login button
+2024-04-30 11:08:34,260 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:08:34,360 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:08:34,552 - logger_File -INFO - user updated name to Danny and phone to 9163265599
+2024-04-30 11:08:34,615 - logger_File -INFO - user clicked on update button
+2024-04-30 11:08:35,352 - logger_File -INFO - user profile information updated
+2024-04-30 11:08:38,837 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:38,918 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:39,109 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:08:39,165 - logger_File -INFO - user clicked on login button
+2024-04-30 11:08:39,513 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:08:39,604 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:08:39,666 - logger_File -INFO - user clicked on Add a payment method link
+2024-04-30 11:08:40,004 - logger_File -INFO - user filled card information
+2024-04-30 11:08:40,052 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:08:40,946 - logger_File -INFO - Payment Method added sucessfullyis displayed
+2024-04-30 11:08:44,583 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:44,664 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:44,860 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:08:44,918 - logger_File -INFO - user clicked on login button
+2024-04-30 11:08:45,257 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:08:45,353 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:08:45,779 - logger_File -INFO - user clicked on Edit option
+2024-04-30 11:08:46,229 - logger_File -INFO - user edited information with new card data
+2024-04-30 11:08:46,290 - logger_File -INFO - user clicked on update your card button
+2024-04-30 11:08:47,040 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2024-04-30 11:08:50,683 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:08:50,786 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:08:51,019 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:08:51,091 - logger_File -INFO - user clicked on login button
+2024-04-30 11:08:51,465 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:08:51,552 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:08:51,926 - logger_File -INFO - user clicked on remove option
+2024-04-30 11:09:16,355 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:09:16,467 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:09:16,705 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:09:16,841 - logger_File -INFO - user clicked on login button
+2024-04-30 11:09:17,188 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:09:17,356 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:09:17,418 - logger_File -INFO - user clicked on Add address option
+2024-04-30 11:09:18,049 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:09:18,129 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:09:18,861 - logger_File -INFO - Address Added Successfullyis displayed
+2024-04-30 11:09:22,583 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:09:22,706 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:09:22,960 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:09:23,034 - logger_File -INFO - user clicked on login button
+2024-04-30 11:09:23,465 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:09:23,653 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:09:23,918 - logger_File -INFO - user clicked on Edit button
+2024-04-30 11:09:24,840 - logger_File -INFO - user filled new address form with new data
+2024-04-30 11:09:24,942 - logger_File -INFO - user clicked Update Your Address button
+2024-04-30 11:09:25,695 - logger_File -INFO - Address Updated Successfullyis displayed
+2024-04-30 11:09:29,310 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:09:29,408 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:09:29,615 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:09:29,679 - logger_File -INFO - user clicked on login button
+2024-04-30 11:09:30,073 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:09:30,228 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:09:30,469 - logger_File -INFO - user clicked on remove option of address section
+2024-04-30 11:09:51,026 - logger_File -INFO - address details are removed
+2024-04-30 11:09:54,687 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:09:54,833 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:09:55,048 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:09:55,112 - logger_File -INFO - user clicked on login button
+2024-04-30 11:09:55,528 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:09:55,673 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:09:55,916 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:09:55,973 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:09:56,987 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:10:00,507 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:00,645 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:00,894 - logger_File -INFO - email alldone3@gmail.com and password AllDonePass2! are entered
+2024-04-30 11:10:00,954 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:01,297 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:01,427 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:10:01,679 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:10:01,734 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:10:02,783 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:10:06,400 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:06,540 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:06,783 - logger_File -INFO - optionsElectronics, Computers, Smart Home, Sports, Automative are present
+2024-04-30 11:10:10,417 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:10,480 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:10,666 - logger_File -INFO - user clicked on department Electronics option
+2024-04-30 11:10:10,696 - logger_File -INFO - options are present in department
+2024-04-30 11:10:14,158 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:14,232 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:14,420 - logger_File -INFO - user clicked on department Computers option
+2024-04-30 11:10:14,456 - logger_File -INFO - options are present in department
+2024-04-30 11:10:17,999 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:18,074 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:18,296 - logger_File -INFO - user clicked on department Smart Home option
+2024-04-30 11:10:18,323 - logger_File -INFO - options are present in department
+2024-04-30 11:10:21,687 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:21,769 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:22,010 - logger_File -INFO - user clicked on department Sports option
+2024-04-30 11:10:22,065 - logger_File -INFO - options are present in department
+2024-04-30 11:10:25,742 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:25,820 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:10:26,015 - logger_File -INFO - user clicked on department Automative option
+2024-04-30 11:10:26,043 - logger_File -INFO - options are present in department
+2024-04-30 11:10:29,290 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:29,371 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:29,545 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:29,594 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:30,001 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:30,062 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:10:30,145 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:10:30,194 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:10:30,542 - logger_File -INFO - user clicked on item
+2024-04-30 11:10:30,843 - logger_File -INFO - user selected quantity2
+2024-04-30 11:10:30,888 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:10:31,169 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:10:34,593 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:34,665 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:34,843 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:34,894 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:35,224 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:35,275 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:10:35,734 - logger_File -INFO - user clicked delete item option
+2024-04-30 11:10:35,763 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:10:39,336 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:39,412 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:39,592 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:39,643 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:39,984 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:40,054 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:10:40,142 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:10:40,189 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:10:40,561 - logger_File -INFO - user clicked on item
+2024-04-30 11:10:40,828 - logger_File -INFO - user selected quantity2
+2024-04-30 11:10:40,879 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:10:40,896 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:10:40,953 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:10:41,035 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:10:41,123 - logger_File -INFO - user clicked add a new address link for shipping address
+2024-04-30 11:10:41,602 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:10:41,671 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:10:41,715 - logger_File -INFO - user clicked add a credit card or debit card for payment method
+2024-04-30 11:10:42,015 - logger_File -INFO - user filled card information
+2024-04-30 11:10:42,072 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:10:42,643 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:10:43,105 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:10:46,841 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:46,911 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:47,077 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:47,133 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:47,537 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:47,596 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:10:47,668 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:10:47,715 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:10:48,032 - logger_File -INFO - user clicked on item
+2024-04-30 11:10:48,293 - logger_File -INFO - user selected quantity5
+2024-04-30 11:10:48,342 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:10:48,608 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:10:48,665 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:10:48,736 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:10:48,783 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:10:49,254 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:10:52,684 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:52,762 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:52,943 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:52,990 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:53,318 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:53,379 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:10:53,442 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:10:53,486 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:10:53,865 - logger_File -INFO - user clicked on item
+2024-04-30 11:10:54,136 - logger_File -INFO - user selected quantity5
+2024-04-30 11:10:54,186 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:10:54,446 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:10:54,506 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:10:54,578 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:10:54,627 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:10:55,079 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:10:58,467 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:10:58,551 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:10:58,711 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:10:58,757 - logger_File -INFO - user clicked on login button
+2024-04-30 11:10:59,093 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:10:59,149 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:10:59,693 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:10:59,751 - logger_File -INFO - user clicked on cancel the oreder button
+2024-04-30 11:10:59,873 - logger_File -INFO - user clicked on cancel order button
+2024-04-30 11:11:00,161 - logger_File -INFO - A cancelation message is displayedYour Order Has Been Cancelled
+2024-04-30 11:11:03,555 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:11:03,635 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:11:03,805 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:11:03,856 - logger_File -INFO - user clicked on login button
+2024-04-30 11:11:04,257 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:11:04,314 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:11:04,725 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:11:04,778 - logger_File -INFO - user clicked on return items button
+2024-04-30 11:11:04,846 - logger_File -INFO - user selected the return reasonItem damaged
+2024-04-30 11:11:04,907 - logger_File -INFO - user selected the drop off serviceFedEx
+2024-04-30 11:11:04,954 - logger_File -INFO - user clicked on return order button
+2024-04-30 11:11:05,377 - logger_File -INFO - A return message Return was successfull is displayed
+2024-04-30 11:11:08,804 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:11:08,890 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:11:09,073 - logger_File -INFO - email alldone3@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:11:09,120 - logger_File -INFO - user clicked on login button
+2024-04-30 11:11:09,456 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:11:09,509 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:11:09,945 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:11:09,996 - logger_File -INFO - user clicked on review button
+2024-04-30 11:11:10,138 - logger_File -INFO - user wrote review headlineheadline value and review text review text
+2024-04-30 11:11:10,185 - logger_File -INFO - user clicked add your review button
+2024-04-30 11:11:10,992 - logger_File -INFO - Your review was added successfullyis displayed
+2024-04-30 11:18:02,723 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:02,816 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:02,915 - logger_File -INFO - user clicked on Create New Account button
+2024-04-30 11:18:03,196 - logger_File -INFO - user entered required information into sign up form
+2024-04-30 11:18:03,251 - logger_File -INFO - user clicked on SignUp button
+2024-04-30 11:18:03,640 - logger_File -INFO - user is logged into account page
+2024-04-30 11:18:07,413 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:07,485 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:07,712 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:07,801 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:08,151 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:11,685 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:11,763 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:11,957 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:12,009 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:12,412 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:12,505 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:18:12,681 - logger_File -INFO - user updated name to Danny and phone to 9163265599
+2024-04-30 11:18:12,743 - logger_File -INFO - user clicked on update button
+2024-04-30 11:18:13,495 - logger_File -INFO - user profile information updated
+2024-04-30 11:18:17,138 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:17,210 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:17,392 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:17,445 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:17,791 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:17,875 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:18:17,939 - logger_File -INFO - user clicked on Add a payment method link
+2024-04-30 11:18:18,254 - logger_File -INFO - user filled card information
+2024-04-30 11:18:18,302 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:18:19,133 - logger_File -INFO - Payment Method added sucessfullyis displayed
+2024-04-30 11:18:22,752 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:22,823 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:23,025 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:23,074 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:23,426 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:23,521 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:18:23,944 - logger_File -INFO - user clicked on Edit option
+2024-04-30 11:18:24,356 - logger_File -INFO - user edited information with new card data
+2024-04-30 11:18:24,420 - logger_File -INFO - user clicked on update your card button
+2024-04-30 11:18:25,208 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2024-04-30 11:18:28,633 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:28,716 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:28,941 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:28,997 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:29,368 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:29,475 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:18:29,947 - logger_File -INFO - user clicked on remove option
+2024-04-30 11:18:54,780 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:18:54,871 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:18:55,092 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:18:55,170 - logger_File -INFO - user clicked on login button
+2024-04-30 11:18:55,514 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:18:55,638 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:18:55,701 - logger_File -INFO - user clicked on Add address option
+2024-04-30 11:18:56,175 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:18:56,243 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:18:56,994 - logger_File -INFO - Address Added Successfullyis displayed
+2024-04-30 11:19:00,690 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:00,781 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:19:00,941 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:19:01,001 - logger_File -INFO - user clicked on login button
+2024-04-30 11:19:01,410 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:19:01,507 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:19:01,782 - logger_File -INFO - user clicked on Edit button
+2024-04-30 11:19:02,562 - logger_File -INFO - user filled new address form with new data
+2024-04-30 11:19:02,623 - logger_File -INFO - user clicked Update Your Address button
+2024-04-30 11:19:03,383 - logger_File -INFO - Address Updated Successfullyis displayed
+2024-04-30 11:19:07,036 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:07,104 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:19:07,267 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:19:07,318 - logger_File -INFO - user clicked on login button
+2024-04-30 11:19:07,701 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:19:07,781 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:19:08,075 - logger_File -INFO - user clicked on remove option of address section
+2024-04-30 11:19:28,611 - logger_File -INFO - address details are removed
+2024-04-30 11:19:32,108 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:32,182 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:19:32,368 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:19:32,419 - logger_File -INFO - user clicked on login button
+2024-04-30 11:19:32,748 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:19:32,825 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:19:33,031 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:19:33,090 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:19:34,090 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:19:37,595 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:37,679 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:19:37,831 - logger_File -INFO - email alldone4@gmail.com and password AllDonePass2! are entered
+2024-04-30 11:19:37,882 - logger_File -INFO - user clicked on login button
+2024-04-30 11:19:38,271 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:19:38,362 - logger_File -INFO - user clicked on Account option
+2024-04-30 11:19:38,572 - logger_File -INFO - user entered required password information into fields
+2024-04-30 11:19:38,618 - logger_File -INFO - user clicked on Change Password button
+2024-04-30 11:19:39,874 - logger_File -INFO - Password Updated Successfullyis displayed
+2024-04-30 11:19:43,458 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:43,519 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:19:43,783 - logger_File -INFO - optionsElectronics, Computers, Smart Home, Sports, Automative are present
+2024-04-30 11:19:47,376 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:47,443 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:19:47,563 - logger_File -INFO - user clicked on department Electronics option
+2024-04-30 11:19:47,606 - logger_File -INFO - options are present in department
+2024-04-30 11:19:51,349 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:51,408 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:19:51,451 - logger_File -INFO - user clicked on department Computers option
+2024-04-30 11:19:51,485 - logger_File -INFO - options are present in department
+2024-04-30 11:19:55,163 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:55,250 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:19:55,314 - logger_File -INFO - user clicked on department Smart Home option
+2024-04-30 11:19:55,347 - logger_File -INFO - options are present in department
+2024-04-30 11:19:58,737 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:19:58,809 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:19:59,072 - logger_File -INFO - user clicked on department Sports option
+2024-04-30 11:19:59,103 - logger_File -INFO - options are present in department
+2024-04-30 11:20:02,409 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:02,461 - logger_File -INFO - user clicked on all section button
+2024-04-30 11:20:02,566 - logger_File -INFO - user clicked on department Automative option
+2024-04-30 11:20:02,592 - logger_File -INFO - options are present in department
+2024-04-30 11:20:06,177 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:06,246 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:06,407 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:06,456 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:06,861 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:06,919 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:20:06,980 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:20:07,027 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:20:07,417 - logger_File -INFO - user clicked on item
+2024-04-30 11:20:07,751 - logger_File -INFO - user selected quantity2
+2024-04-30 11:20:07,785 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:20:08,014 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:20:11,433 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:11,516 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:11,719 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:11,770 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:12,146 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:12,202 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:20:12,589 - logger_File -INFO - user clicked delete item option
+2024-04-30 11:20:12,618 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:20:16,101 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:16,171 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:16,359 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:16,406 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:16,798 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:16,857 - logger_File -INFO - user changed the category to Smart Home
+2024-04-30 11:20:16,930 - logger_File -INFO - user search for an item kasa outdoor smart plug
+2024-04-30 11:20:16,975 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:20:17,292 - logger_File -INFO - user clicked on item
+2024-04-30 11:20:17,619 - logger_File -INFO - user selected quantity2
+2024-04-30 11:20:17,662 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:20:17,679 - logger_File -INFO - the cart icon quantity changed to 2
+2024-04-30 11:20:17,731 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:20:17,801 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:20:17,879 - logger_File -INFO - user clicked add a new address link for shipping address
+2024-04-30 11:20:18,364 - logger_File -INFO - user filled new address form with data
+2024-04-30 11:20:18,432 - logger_File -INFO - user clicked Add Your Address button
+2024-04-30 11:20:18,468 - logger_File -INFO - user clicked add a credit card or debit card for payment method
+2024-04-30 11:20:18,749 - logger_File -INFO - user filled card information
+2024-04-30 11:20:18,797 - logger_File -INFO - user clicked on Add your card button
+2024-04-30 11:20:19,354 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:20:19,843 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:20:23,403 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:23,469 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:23,641 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:23,694 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:24,083 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:24,146 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:20:24,213 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:20:24,261 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:20:24,650 - logger_File -INFO - user clicked on item
+2024-04-30 11:20:24,913 - logger_File -INFO - user selected quantity5
+2024-04-30 11:20:24,958 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:20:25,223 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:20:25,275 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:20:25,338 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:20:25,382 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:20:25,830 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:20:29,505 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:29,648 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:29,865 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:29,936 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:30,428 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:30,496 - logger_File -INFO - user changed the category to Electronics
+2024-04-30 11:20:30,554 - logger_File -INFO - user search for an item Apex Legends
+2024-04-30 11:20:30,598 - logger_File -INFO - user clicked on Search icon
+2024-04-30 11:20:30,906 - logger_File -INFO - user clicked on item
+2024-04-30 11:20:31,218 - logger_File -INFO - user selected quantity5
+2024-04-30 11:20:31,264 - logger_File -INFO - user clicked on add to cart button
+2024-04-30 11:20:31,492 - logger_File -INFO - the cart icon quantity changed to 5
+2024-04-30 11:20:31,541 - logger_File -INFO - user clicked on cart option
+2024-04-30 11:20:31,611 - logger_File -INFO - user clicked on proceed to checkout button
+2024-04-30 11:20:31,654 - logger_File -INFO - user clicked on place your order button
+2024-04-30 11:20:32,085 - logger_File -INFO - a message is displayed Order Placed, Thanks
+2024-04-30 11:20:35,436 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:35,497 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:35,686 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:35,733 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:36,086 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:36,142 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:20:36,628 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:20:36,675 - logger_File -INFO - user clicked on cancel the oreder button
+2024-04-30 11:20:36,779 - logger_File -INFO - user clicked on cancel order button
+2024-04-30 11:20:36,997 - logger_File -INFO - A cancelation message is displayedYour Order Has Been Cancelled
+2024-04-30 11:20:40,349 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:40,421 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:40,620 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:40,685 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:41,037 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:41,077 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:20:41,554 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:20:41,610 - logger_File -INFO - user clicked on return items button
+2024-04-30 11:20:41,674 - logger_File -INFO - user selected the return reasonItem damaged
+2024-04-30 11:20:41,730 - logger_File -INFO - user selected the drop off serviceFedEx
+2024-04-30 11:20:41,773 - logger_File -INFO - user clicked on return order button
+2024-04-30 11:20:42,051 - logger_File -INFO - A return message Return was successfull is displayed
+2024-04-30 11:20:45,596 - logger_File -INFO - React App is equal to React App
+2024-04-30 11:20:45,657 - logger_File -INFO - user clicked on sign in option
+2024-04-30 11:20:45,825 - logger_File -INFO - email alldone4@gmail.com and password AllDoneTestOne1! are entered
+2024-04-30 11:20:45,874 - logger_File -INFO - user clicked on login button
+2024-04-30 11:20:46,273 - logger_File -INFO - user is logged in into Account
+2024-04-30 11:20:46,322 - logger_File -INFO - user clicked on Orders section
+2024-04-30 11:20:46,785 - logger_File -INFO - first order in list is been chosen
+2024-04-30 11:20:46,835 - logger_File -INFO - user clicked on review button
+2024-04-30 11:20:46,959 - logger_File -INFO - user wrote review headlineheadline value and review text review text
+2024-04-30 11:20:47,006 - logger_File -INFO - user clicked add your review button
+2024-04-30 11:20:47,813 - logger_File -INFO - Your review was added successfullyis displayed
